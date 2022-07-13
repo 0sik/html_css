@@ -1,0 +1,17 @@
+body{
+    font-family: "NanumGothic";
+}
+.male{
+    color : blue;
+}
+.female{
+    color : #ff0000;
+}
+
+ul{
+    list-style : none;
+}
+
+#ceo{
+    background-color: #dfe0e1;
+}
